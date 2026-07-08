@@ -16,7 +16,7 @@ export const siteconfig = {
     ],
     // nav end
     // hero start
-    heroImg: "/heroImg.webp",
+    heroImg: "./heroImg.webp",
     heroBusinessName: "Exon Sports",
     heroBusinessLocation: "Thailand",
     heroBusinessStatus: "Manufacturer & Wholesaler",
